@@ -15,9 +15,9 @@ resourcetype: Video
 title: 'Video 1:  Kanji in Tobira Lesson 1'
 uid: c9ac8995-c325-4d7c-8a3f-8ab6fd5527a4
 video_files:
-  video_captions_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l1_captions.vtt
+  video_captions_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/1RFG_ARpXkTkHOzI_vIhp1T84MNXGOJuJ_transcript.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/_FtXi0_ZMvk/default.jpg
-  video_transcript_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l1_transcript.pdf
+  video_transcript_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/1RFG_ARpXkTkHOzI_vIhp1T84MNXGOJuJ_transcript.pdf
 video_metadata:
   video_speakers: Takako Aikawa
   video_tags: "\u5E02, \u5E73, \u4F1D, \u5225, \u5F62, \u6C7A, \u548C, \u7684, \u5EFA\
