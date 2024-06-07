@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l2_transcript.pdf
+file_size: 48248
 file_type: application/pdf
 image_metadata:
   caption: ''
