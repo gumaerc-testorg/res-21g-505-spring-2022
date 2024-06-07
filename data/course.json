@@ -24,6 +24,7 @@
     "website": "kanji-learning-any-time-any-place-for-japanese-v"
   },
   "course_title": "Kanji Learning Any Time, Any Place for Japanese V",
+  "hide_download": false,
   "course_description": "This resource aims to enhance students\u2019 learning of kanji by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/) lessons 1\u20135. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters.",
   "department_numbers": [
     "RES",
@@ -36,7 +37,8 @@
     "website": "kanji-learning-any-time-any-place-for-japanese-v"
   },
   "learning_resource_types": [
-    "Lecture Videos"
+    "Lecture Videos",
+    "Instructor Insights"
   ],
   "site_uid": "5f6d6a4f-7ebb-45d7-ae7a-f26625d87191",
   "site_short_id": "res-21g-505-spring-2022"
