@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/kanji-learning-any-time-any-place-for-japanese-v/mitres21g_505s22_l4_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l4_360p_16_9.mp4
 file_size: 43527519
 file_type: video/mp4
 image_metadata:
