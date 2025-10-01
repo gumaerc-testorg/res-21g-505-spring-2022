@@ -38,6 +38,6 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: TxKzqbpLi0Y
 ---
-**Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 4 of the textbook, [*Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia*](https://tobiraweb.9640.jp/).
+**Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 4 of the textbook, {{% resource_link "3dded1da-5641-4aee-973f-89c4c639e1bf" "*Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia*" %}}.
 
 **Instructor**: Dr. Takako Aikawa
