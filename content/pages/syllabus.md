@@ -8,11 +8,11 @@ uid: 484606be-418d-4457-92e6-094d006eddc4
 ---
 ## Description
 
-This resource aims to enhance students’ learning of kanji by providing a series of video lectures that cover the kanji characters in lessons 1–5 of the {{% resource_link "3dded1da-5641-4aee-973f-89c4c639e1bf" "Tobira" %}} textbook. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters, so that students can memorize them in a systematic and meaningful way. They make kanji learning more captivating and fun!
+This resource aims to enhance students’ learning of kanji by providing a series of video lectures that cover the kanji characters in lessons 1–5 of the [Tobira](https://tobiraweb.9640.jp/) textbook. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters, so that students can memorize them in a systematic and meaningful way. They make kanji learning more captivating and fun!
 
 ## Textbook
 
-Tobira = Mayumi Oka et al., {{% resource_link "3dded1da-5641-4aee-973f-89c4c639e1bf" "*Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia*" %}}, Kurosio Publishing (2009), ISBN: 9784874244470.
+Tobira = Mayumi Oka et al., [*Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia*](https://tobiraweb.9640.jp/), Kurosio Publishing (2009), ISBN: 9784874244470.
 
 This table summarizes the kanji characters introduced in the videos:
 
@@ -44,4 +44,4 @@ Tobira lesson 5: 以, 功, 失, 在, 米, 信, 客, 流, 得, 敗, 数, 続, 増
 
 ## Additional Resources
 
-The stroke order animation in each video was created using the web application developed by {{% resource_link "c5a5c69c-5097-48bd-af43-e8a2a3448530" "Kanji alive" %}} (under Creative Commons license, CC BY 4.0). Students can learn more about the stroke order and search for the kanji in each lesson, e.g. using “text:jt:c1” to find kanji in lesson 1 with this {{% resource_link "65a8a8e6-b92e-4021-9f49-048a7cb1a8cc" "Kanji alive web application" %}}.
+The stroke order animation in each video was created using the web application developed by [Kanji alive](https://kanjialive.com/) (under Creative Commons license, CC BY 4.0). Students can learn more about the stroke order and search for the kanji in each lesson, e.g. using “text:jt:c1” to find kanji in lesson 1 with this [Kanji alive web application](https://app.kanjialive.com/search).
